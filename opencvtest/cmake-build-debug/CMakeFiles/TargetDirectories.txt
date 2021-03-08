@@ -1,4 +1,0 @@
-/Users/brandon/Downloads/Programming/CLion/Udemy/Section Thirteen/opencvtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/brandon/Downloads/Programming/CLion/Udemy/Section Thirteen/opencvtest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/brandon/Downloads/Programming/CLion/Udemy/Section Thirteen/opencvtest/cmake-build-debug/CMakeFiles/headpose.dir
-/Users/brandon/Downloads/Programming/CLion/Udemy/Section Thirteen/opencvtest/cmake-build-debug/CMakeFiles/opencvtest.dir
